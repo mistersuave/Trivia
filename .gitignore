@@ -1,0 +1,19 @@
+.vscode
+__pycache__
+.pytest_cache
+venv
+.env
+*node_modules/
+.idea/
+pip
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
